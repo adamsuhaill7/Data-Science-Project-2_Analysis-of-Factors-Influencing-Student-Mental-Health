@@ -22,7 +22,7 @@ Hello GitHub enthusiasts!!! My name is Adam, and I'm a master's student in Data 
 - **Work/Study Hours**: The number of hours spent on work or study.
 - **Financial Stress**: Indicates the level of financial stress experienced (scale of 0 to 5).
 - **Family History of Mental Illness**: Indicates whether there is a family history of mental illness (Yes/No).
-- **Depression**: A rating indicating the level of depression experienced by the students (scale of 0 to 5).
+- **Depression**: A rating indicating the level of depression experienced by the students (Yes/No, 1,0).
 
 I believe this dataset is particularly significant as it highlights the mental health challenges that students in India encounter. By analyzing these factors, I hope to contribute to a better understanding of student well-being and foster discussions around the necessary support systems we need in academic environments.
 
