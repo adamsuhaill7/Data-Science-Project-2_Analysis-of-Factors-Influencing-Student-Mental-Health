@@ -3,7 +3,7 @@
 **Project Title:** Analysis of Factors Influencing Student Mental Health: Academic & Work Pressure, Finance, Lifestyle & Diet  
 **Student ID:** Adam Suhail Bin Shahril (P153109)
 
-![Mental Health](mental_health.jpg) <!-- Mental health image -->
+![Mental Health](mental_health_risks.jpg) <!-- Mental health image -->
 
 ## 📊 Dataset Background
 
