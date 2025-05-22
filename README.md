@@ -3,13 +3,15 @@
 **Project Title:** Analysis of Factors Influencing Student Mental Health: Academic & Work Pressure, Finance, Lifestyle & Diet  
 **Student ID:** Adam Suhail Bin Shahril (P153109)
 
+![Mental Health](mental_health.jpg) <!-- Mental health image -->
+
 ## 📊 Dataset Background
 
 Hello GitHub enthusiasts! 👋 My name is Adam, and I'm a master's student in Data Science. I chose to explore and analyze this dataset because, as a student myself, I am keenly aware of the challenges we face regarding mental health and academic pressures.
 
 The dataset focuses on the mental health and lifestyle factors of students across various cities in India and contains tens of thousands of records. Each record captures a wide range of demographic, academic, and psychological variables.
 
-You can access the dataset at the following link: [Student Depression Dataset - Kaggle](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data)
+You can access the dataset at the following link: [Student Depression Dataset - Kaggle]
 
 ### 🔑 Key Attributes
 
@@ -88,3 +90,27 @@ Here are the visualizations derived from the analysis:
 ![Visualization 5](Visualisation5.png)
 
 These visualizations provide insights into the relationships and distributions of key variables related to student mental health. They help illustrate trends and correlations that can inform support systems and interventions aimed at enhancing student well-being.
+
+## 📋 Conclusion
+The analysis of various factors affecting student mental health and academic performance reveals critical insights that highlight the interconnectedness of these elements. The findings underscore the urgent need for comprehensive support systems within educational institutions, addressing not only academic pressures but also mental health, financial stress, dietary habits, and overall student satisfaction. By understanding these relationships, stakeholders can develop targeted interventions to foster a healthier academic environment.
+
+- **Academic Pressure & Financial Stress:** Higher academic pressure and financial status correlate with increased levels of depression, highlighting the need for stress management programs.
+- **Dietary Habits and CGPA:** Healthy dietary habits are linked to higher CGPA, suggesting the importance of promoting nutrition among students.
+- **Suicidal Thoughts:** A significant 63.3% of students report experiencing suicidal thoughts, indicating a critical need for mental health resources and support systems.
+- **Study Satisfaction and Academic Performance:** Higher study satisfaction is associated with better CGPA, emphasizing the need for educational initiatives that enhance student engagement.
+
+## 📄 References
+1. Beiter, R., et al. (2015). "The impact of stress on college students' academic performance." *Journal of College Student Psychotherapy*.
+2. Huang, L., et al. (2020). "Financial stress and mental health among college students." *Journal of American College Health*.
+3. Hackman, J. R., & Oldham, G. R. (1976). "Motivation through the design of work: Test of a theory." *Organizational Behavior and Human Performance*.
+4. Hudd, S. S., et al. (2000). "Stress at college: The role of social support." *Journal of College Student Development*.
+5. Misra, R., & McKean, M. (2000). "College students' academic stress and its relationship to their anxiety, time management, and leisure satisfaction." *American Journal of Health Studies*.
+6. Conley, C. S., et al. (2013). "The role of stress management in student mental health." *Journal of American College Health*.
+7. Astin, A. W. (1993). "What Matters in College? Four Critical Years Revisited." *Jossey-Bass*.
+8. Benton, S. A., et al. (2013). "Suicidal ideation among college students." *Journal of College Counseling*.
+9. Kitzrow, M. A. (2003). "The challenge of student retention." *NASPA Journal*.
+10. Eisenberg, D., et al. (2009). "Mental health and academic success in college." *B.E. Journal of Economic Analysis & Policy*.
+11. Gonzalez, A., et al. (2015). "The importance of supportive relationships in college student mental health." *Journal of American College Health*.
+
+Thank You!
+I would like to extend my heartfelt gratitude to everyone who contributed to this analysis and supported me throughout the process. Your insights, encouragement, and collaboration have been invaluable.
