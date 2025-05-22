@@ -68,3 +68,23 @@ The mental health of students has garnered increasing attention, particularly co
    - What interventions can be implemented to improve students' dietary habits, lifestyle choices, and consequently, their mental health?
 
 By exploring these problems and guiding questions, this analysis aims to provide valuable insights into the mental health challenges faced by students, emphasizing the need for targeted interventions to foster student well-being. 🌟
+
+## 📊 Data Visualizations
+Here are the visualizations derived from the analysis:
+
+### Visualization 1
+![Visualization 1](Visualisation1.png)
+
+### Visualization 2
+![Visualization 2](Visualisation2.png)
+
+### Visualization 3
+![Visualization 3](Visualisation3.png)
+
+### Visualization 4
+![Visualization 4](Visualisation4.png)
+
+### Visualization 5
+![Visualization 5](Visualisation5.png)
+
+These visualizations provide insights into the relationships and distributions of key variables related to student mental health. They help illustrate trends and correlations that can inform support systems and interventions aimed at enhancing student well-being.
