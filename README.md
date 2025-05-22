@@ -3,7 +3,7 @@
 **Project Title:** Analysis of Factors Influencing Student Mental Health: Academic & Work Pressure, Finance, Lifestyle & Diet  
 **Student ID:** Adam Suhail Bin Shahril (P153109)
 
-![Mental Health](mental_health_risks.jpg) <!-- Mental health image -->
+![Mental Health](mental_health.jpg) <!-- Mental health image -->
 
 ## 📊 Dataset Background
 
@@ -11,7 +11,7 @@ Hello GitHub enthusiasts! 👋 My name is Adam, and I'm a master's student in Da
 
 The dataset focuses on the mental health and lifestyle factors of students across various cities in India and contains tens of thousands of records. Each record captures a wide range of demographic, academic, and psychological variables.
 
-You can access the dataset at the following link: [Student Depression Dataset - Kaggle]
+You can access the dataset at the following link: [Student Depression Dataset - Kaggle](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data)
 
 ### 🔑 Key Attributes
 
@@ -111,6 +111,7 @@ The analysis of various factors affecting student mental health and academic per
 9. Kitzrow, M. A. (2003). "The challenge of student retention." *NASPA Journal*.
 10. Eisenberg, D., et al. (2009). "Mental health and academic success in college." *B.E. Journal of Economic Analysis & Policy*.
 11. Gonzalez, A., et al. (2015). "The importance of supportive relationships in college student mental health." *Journal of American College Health*.
+12. [Student Depression Dataset - Kaggle](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data)
 
 Thank You!
 I would like to extend my heartfelt gratitude to everyone who contributed to this analysis and supported me throughout the process. Your insights, encouragement, and collaboration have been invaluable.
