@@ -9,7 +9,7 @@ Hello GitHub enthusiasts! 👋 My name is Adam, and I'm a master's student in Da
 
 The dataset focuses on the mental health and lifestyle factors of students across various cities in India and contains tens of thousands of records. Each record captures a wide range of demographic, academic, and psychological variables.
 
-You can access the dataset at the following link: [Kaggle Dataset](#)
+You can access the dataset at the following link: [Student Depression Dataset - Kaggle](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data)
 
 ### 🔑 Key Attributes
 
