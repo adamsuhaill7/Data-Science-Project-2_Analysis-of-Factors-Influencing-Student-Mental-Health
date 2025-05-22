@@ -1,7 +1,12 @@
-# 📚 Analysis of Factors Influencing Student Mental Health
-**Course:** STQD6014 Data Science  
-**Project Title:** Analysis of Factors Influencing Student Mental Health: Academic & Work Pressure, Finance, Lifestyle & Diet  
-**Student ID:** Adam Suhail Bin Shahril (P153109)
+# 📊 Data Science Project 1: Analysis of Factors Influencing Student Mental Health
+
+## 📚 Course Information
+- **Course:** STQD6014 Data Science
+- **Topic:** Project 1
+- **Student ID:** Adam Suhail Bin Shahril (P153109)
+
+## 📝 Project Title
+**"Analysis of Factors Influencing Student Mental Health: Academic & Work Pressure, Finance, Lifestyle & Diet"**
 
 ![Mental Health](student_mental_health.jpg) <!-- Mental health image -->
 
